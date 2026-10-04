@@ -1,3 +1,5 @@
+package Runnable;
+
 import java.util.Scanner;
 
 public class numeros {

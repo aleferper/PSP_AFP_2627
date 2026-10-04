@@ -1,3 +1,5 @@
+package Runnable;
+
 import java.util.Random;
 
 public class Hilo implements Runnable{
